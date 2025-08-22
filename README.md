@@ -102,6 +102,9 @@ CONFIG = {
     # ... other settings
 }
 ```
+### 
+- **Zephyr Wallet: https://wallet.zephyrprotocol.com/
+- **Zephyr Pool optional https://zephyr.herominers.com/
 
 ### 4. Run the Miner
 ```bash
